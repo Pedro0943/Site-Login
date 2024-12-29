@@ -39,7 +39,7 @@
     <div class="cadastro">
         <form action="index.php" method="POST">
             <p>Nome</p>
-            <input class="ajus" type="text" name="nome" placeholder="Digite seu nome">
+            <input class="ajus" type="text" name="nome" id="nome" placeholder="Digite seu nome">
             <p>Telefone</p>
             <input class="ajus" type="tel" name="telefone" id="" placeholder="Digite seu telefone">
             <p>Data de Nascimento</p>
